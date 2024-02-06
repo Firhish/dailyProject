@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "assignments.a1.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quizzes.quiz1.q8.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quizzes.quiz1.q7.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -14,11 +35,42 @@
             "type": "java",
             "name": "App",
             "request": "launch",
-            "mainClass": "day1.App",
-            "args": [
-                "Aug",
-                "23"
-            ],
+            "mainClass": "App",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "TestBook",
+            "request": "launch",
+            "mainClass": "quizzes.quiz1.q1.TestBook",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quizzes.quiz1.q16.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test(1)",
+            "request": "launch",
+            "mainClass": "quizzes.quiz1.q2.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test(2)",
+            "request": "launch",
+            "mainClass": "quizzes.quiz1.q4.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test(3)",
+            "request": "launch",
+            "mainClass": "quizzes.quiz1.q5.Test",
             "projectName": "dailyProject_18aedc72"
         }
     ]
