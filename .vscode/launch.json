@@ -8,6 +8,150 @@
             "type": "java",
             "name": "Test",
             "request": "launch",
+            "mainClass": "quizzes.quiz1.q12.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quizzes.quiz1.q11.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quizzes.quiz1.q10.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quizzes.quiz1.q9.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "FlowExercise2",
+            "request": "launch",
+            "mainClass": "lessons.lesson3.operators.exec14.FlowExercise2",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCaseTest",
+            "request": "launch",
+            "mainClass": "lessons.lesson3.operators.exec13.SwitchCaseTest",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "MatrixAdd",
+            "request": "launch",
+            "mainClass": "lessons.lesson3.operators.exec12.MatrixAdd",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "lessons.lesson3.operators.exec11.PrimeNumber",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "lessons.lesson3.operators.exec10.Fibonacci",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "lessons.lesson3.operators.exec9.Factorial",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "FlowExercise",
+            "request": "launch",
+            "mainClass": "lessons.lesson3.operators.exec8.FlowExercise",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "ScannerTest2",
+            "request": "launch",
+            "mainClass": "lessons.lesson3.operators.exec7.ScannerTest2",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "ScannerTest",
+            "request": "launch",
+            "mainClass": "lessons.lesson3.operators.exec7.ScannerTest",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "ElvisOperator",
+            "request": "launch",
+            "mainClass": "lessons.lesson3.operators.exec6.ElvisOperator",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Numerics",
+            "request": "launch",
+            "mainClass": "lessons.lesson3.operators.exec5.Numerics",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Assignment1",
+            "request": "launch",
+            "mainClass": "assignments.a1.Assignment1",
+            "args": [
+                "hello1",
+                "Hello2"
+            ],
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Exec4",
+            "request": "launch",
+            "mainClass": "lessons.lesson3.operators.exec4.Exec4",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Exec3",
+            "request": "launch",
+            "mainClass": "lessons.lesson3.operators.exec3.Exec3",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Exec2",
+            "request": "launch",
+            "mainClass": "lessons.lesson3.operators.exec2.Exec2",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Exec1",
+            "request": "launch",
+            "mainClass": "lessons.lesson3.operators.exec1.Exec1",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
             "mainClass": "assignments.a1.Test",
             "projectName": "dailyProject_18aedc72"
         },

@@ -1,6 +1,6 @@
-import lesson2.IntegerHandler;
-import lesson2.StringHandler;
-import lesson1.AnotherClass;
+import lessons.lesson1.AnotherClass;
+import lessons.lesson2.IntegerHandler;
+import lessons.lesson2.StringHandler;
 
 public class App {
     public static void main(String[] args) {
