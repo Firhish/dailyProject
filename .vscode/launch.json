@@ -8,6 +8,90 @@
             "type": "java",
             "name": "Test",
             "request": "launch",
+            "mainClass": "quizzes.quiz1.q14.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionHandler",
+            "request": "launch",
+            "mainClass": "lessons.lesson4.ExceptionHandler",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Assignment2",
+            "request": "launch",
+            "mainClass": "assignments.a2.Assignment2",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "NthPowerMatrix",
+            "request": "launch",
+            "mainClass": "assignments.a2.NthPowerMatrix",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "MultiDimensionalMatrix",
+            "request": "launch",
+            "mainClass": "assignments.a2.MultiDimensionalMatrix",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "assignments.a2.SelectionSort",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "SequentialSearch",
+            "request": "launch",
+            "mainClass": "assignments.a2.SequentialSearch",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "FlowQuestion",
+            "request": "launch",
+            "mainClass": "assignments.a2.FlowQuestion",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "GenRandomArray",
+            "request": "launch",
+            "mainClass": "assignments.a2.GenRandomArray",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "ArrayFunction",
+            "request": "launch",
+            "mainClass": "assignments.a2.ArrayFunction",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListStringManipulator",
+            "request": "launch",
+            "mainClass": "lessons.lesson4.ArrayListStringManipulator",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListManipulator",
+            "request": "launch",
+            "mainClass": "lessons.lesson4.ArrayListManipulator",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
             "mainClass": "quizzes.quiz1.q12.Test",
             "projectName": "dailyProject_18aedc72"
         },
