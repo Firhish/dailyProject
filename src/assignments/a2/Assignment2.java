@@ -29,10 +29,10 @@ public class Assignment2 {
         // genArr invoked to create the number sequence
         genArr(start,end,len,arrNum);
 
-        System.out.println(arrNum.toString());
-        System.out.println(getMean(arrNum));
-        System.out.println(getMedian(arrNum));
-        System.out.println(getMode(arrNum));
+        System.out.println("Generated number: " + arrNum.toString());
+        System.out.printf("Mean: %.2f\n",getMean(arrNum));
+        System.out.printf("Median: %.2f\n",getMedian(arrNum));
+        System.out.println("Mode: " + getMode(arrNum));
 
     }
 
@@ -46,7 +46,7 @@ public class Assignment2 {
 
         }
 
-        return total/numArr.size();
+        return (double)(total)/(double)(numArr.size());
 
     }
 
@@ -59,7 +59,7 @@ public class Assignment2 {
             int firstMiddleIdx = numArr.size() / 2 - 1;
             int secondMiddleIdx = numArr.size() / 2;
 
-            res = (numArr.get(firstMiddleIdx) + numArr.get(secondMiddleIdx)) / 2;
+            res = ((double)((numArr.get(firstMiddleIdx) + numArr.get(secondMiddleIdx)))) / 2;
 
             return res;
 
@@ -113,7 +113,12 @@ public class Assignment2 {
     public static void genArr(int start, int end, int len, ArrayList<Integer> numArr){
 
         for(int i = 0; i < len; i++){
-
+            
+            // justification
+            // Math.random() will generate a number within (0 - 1). eg. 0.624...
+            // (end - start) to get biggest number to be multiply by the generated value to get results that falls within the range.
+            // (+1) to make the "end" value achievable, without it the max result will be (end - 1).
+            // (+start) to ensure the result minimum value to "start" value.
             numArr.add((int)(Math.random() * (end - start + 1) + start));
 
         }
