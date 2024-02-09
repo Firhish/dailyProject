@@ -2,6 +2,7 @@ package lessons.lesson4;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 
 public class ExceptionHandler {
 
