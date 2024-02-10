@@ -8,6 +8,48 @@
             "type": "java",
             "name": "Test",
             "request": "launch",
+            "mainClass": "quizzes.quiz2.q21.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quizzes.quiz1.q20.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quizzes.quiz1.q19.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quizzes.quiz1.q18.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quizzes.quiz1.q17.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quizzes.quiz1.q15.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
             "mainClass": "assignments.a3.Polymorphism.Test",
             "projectName": "dailyProject_18aedc72"
         },
