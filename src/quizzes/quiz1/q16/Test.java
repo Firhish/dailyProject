@@ -5,6 +5,8 @@ public class Test {
         int j = 5;
         int k = 0;
 
+        //A,B,C is label for each loops to ease in flow controlling
+
         A: while(true){
             
             i++;
