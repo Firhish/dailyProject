@@ -8,6 +8,48 @@
             "type": "java",
             "name": "Test",
             "request": "launch",
+            "mainClass": "quizzes.quiz2.q30.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "TestA",
+            "request": "launch",
+            "mainClass": "quizzes.quiz2.q28.two.TestA",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "TestA",
+            "request": "launch",
+            "mainClass": "quizzes.quiz2.q28.TestA",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quizzes.quiz2.q27.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quizzes.quiz2.q26.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quizzes.quiz2.q22.Test",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
             "mainClass": "quizzes.quiz2.q21.Test",
             "projectName": "dailyProject_18aedc72"
         },
