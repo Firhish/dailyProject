@@ -1,0 +1,6 @@
+final keyword can be used to prevent inheritance of a class
+
+In Java, the final keyword can be used in different contexts, 
+and one of its uses is to prevent inheritance of a class. 
+When you declare a class as final, it means that the class cannot be subclassed, 
+and no other class can extend it.
