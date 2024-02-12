@@ -1,0 +1,4 @@
+How can you force JVM to run Garbage Collector?
+
+Answer:
+By calling : System.gc( );
