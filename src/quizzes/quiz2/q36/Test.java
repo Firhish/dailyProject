@@ -8,7 +8,6 @@ public class Test {
                         .ofYears(10)                     // P10Y
                         .ofMonths(5)                    // P5M
                         .ofDays(2);                       // P2D
-                        
-        System.out.println(period);                            // Prints P2D since those methods overwrite each other
+        System.out.println(period);                            // Prints P2D, The of() method always creates a new Period object, discarding the previous values 
     }
 }

@@ -1,0 +1,7 @@
+catch is for catching the exception and not throwing it.
+
+thrown is not a java keyword.
+
+throws is used to declare the exceptions a method may throw certain exception.
+
+To manually throw an exception, throw keyword is used. e.g., throw new Exception();
