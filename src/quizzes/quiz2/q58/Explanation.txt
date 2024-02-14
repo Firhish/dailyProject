@@ -1,0 +1,9 @@
+Following statement in a Java program compiles successfully:
+student.report(course); 
+
+What can you say for sure?
+
+report is the method name (TRUE)
+student is the class name (Best practice)
+course must be of String type (Maybe)
+student is the reference variable name (Not sure)

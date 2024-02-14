@@ -18,10 +18,15 @@ public class Test {
         // name2 refers to the String literal "JamesGosling" in the String pool.
         // name3 refers to the same String literal "JamesGosling" in the String pool.
 
+        // "==" compares reference not value
         // name1 == name2 evaluates to false because they refer to different objects
         System.out.println(name1 == name2);
         // name2 == name3 evaluates to true because they refer to the same String literal in the String pool.
         System.out.println(name2 == name3);
+
+        // fix
+        // .equals()
+        // finalize both variables
     }
     
 }

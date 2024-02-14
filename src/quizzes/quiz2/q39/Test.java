@@ -7,5 +7,7 @@ public class Test {
 
         // print false since comparing string with .equals() is case sensitive
         System.out.println(s1.equals(s2));
+        // print true since it ignores differences in case type
+        System.out.println(s1.equalsIgnoreCase(s2));
     }
 }
