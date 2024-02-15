@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WebScraper",
+            "request": "launch",
+            "mainClass": "assignments.a5.WebScraper",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "lessons.lesson6.Exercises.Main",
