@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ToDoListManagerApp",
+            "request": "launch",
+            "mainClass": "lessons.lesson8.assignments.a3.ToDoListManagerApp",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "TemperatureConverterApp",
+            "request": "launch",
+            "mainClass": "lessons.lesson8.assignments.a2.TemperatureConverterApp",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "SimpleCalculatorApp",
+            "request": "launch",
+            "mainClass": "lessons.lesson8.assignments.a1.SimpleCalculatorApp",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "SimpleCalculator",
+            "request": "launch",
+            "mainClass": "lessons.lesson8.assignments.a1.SimpleCalculator",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "FileExplorerApp",
+            "request": "launch",
+            "mainClass": "lessons.lesson8.assignments.a6.FileExplorerApp",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "ExpenseTrackerApp",
+            "request": "launch",
+            "mainClass": "lessons.lesson8.assignments.a14.ExpenseTrackerApp",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lessons.lesson7.generic.genericMaximizer.Main",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lessons.lesson7.generic.genericPairClass.Main",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "lessons.lesson7.assignments.remoteControlSystem.Main",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "lessons.lesson7.assignments.messagingSystem.Main",
