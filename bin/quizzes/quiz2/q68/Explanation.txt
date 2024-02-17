@@ -1,0 +1,3 @@
+ClassCastException, NumberFormatException and IllegalArgumentException are Runtime exceptions.
+
+There are no exception classes in java with the names: NullException and ArrayIndexException.
