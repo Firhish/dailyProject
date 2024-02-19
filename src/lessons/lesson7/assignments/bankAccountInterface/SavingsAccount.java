@@ -37,4 +37,16 @@ class SavingsAccount implements BankAccount {
     public double getBalance() {
         return balance + (balance * interestRate); // Adding interest to the balance
     }
+
+    @Override
+    public void transfer() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'transfer'");
+    }
+
+    @Override
+    public String[] getTransactionHistory() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getTransactionHistory'");
+    }
 }
