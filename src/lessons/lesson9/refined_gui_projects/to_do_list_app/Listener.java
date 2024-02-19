@@ -7,13 +7,15 @@ import javax.swing.JTextField;
 public abstract class Listener {
 
     private JTextField inputField;
+    private JTextField inputFieldDesc;
     private JComboBox<String> dayComboBox;
     private DefaultListModel<ToDo> listModel;
 
-    public Listener(JTextField inputField, JComboBox<String> dayComboBox, DefaultListModel<ToDo> listModel) {
+    public Listener(JTextField inputField, JTextField inputFieldDesc , JComboBox<String> dayComboBox, DefaultListModel<ToDo> listModel) {
         this.inputField = inputField;
         this.dayComboBox = dayComboBox;
         this.listModel = listModel;
+        this.inputFieldDesc = inputFieldDesc;
     }
 
     public JTextField getInputField() {
@@ -26,6 +28,10 @@ public abstract class Listener {
 
     public DefaultListModel<ToDo> getListModel() {
         return listModel;
+    }
+
+    public JTextField getInputFieldDesc() {
+        return inputFieldDesc;
     }
 
     
