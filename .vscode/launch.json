@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "lessons.lesson10.mysql_impl_demo.to_do_list_app.Main",
+            "projectName": "dailyProject_18aedc72"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "lessons.lesson9.refined_gui_projects.to_do_list_app.Main",
             "projectName": "dailyProject_18aedc72"
         },
