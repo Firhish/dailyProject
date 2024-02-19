@@ -8,6 +8,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JList;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextField;
@@ -21,7 +22,7 @@ public class ToDoListManagerApp extends JFrame {
     ToDoListManagerApp(){
 
         // Basic setup
-        setTitle("File Explorer App");
+        setTitle("To-Do List Manager App");
         setSize(400, 400);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
@@ -61,6 +62,8 @@ public class ToDoListManagerApp extends JFrame {
             if (!todo.isEmpty()) {
                 listModel.addElement(todo);
                 inputField.setText("");
+            } else{
+                JOptionPane.showMessageDialog(ToDoListManagerApp.this, "Please enter a valid to do item.", "Error", JOptionPane.ERROR_MESSAGE);
             }
         }
         
