@@ -11,7 +11,7 @@ public abstract class Listener {
     private JComboBox<String> dayComboBox;
     private DefaultListModel<ToDo> listModel;
 
-    public Listener(JTextField inputField, JTextField inputFieldDesc , JComboBox<String> dayComboBox, DefaultListModel<ToDo> listModel) {
+    public Listener(JTextField inputField, JTextField inputFieldDesc, JComboBox<String> dayComboBox, DefaultListModel<ToDo> listModel) {
         this.inputField = inputField;
         this.dayComboBox = dayComboBox;
         this.listModel = listModel;

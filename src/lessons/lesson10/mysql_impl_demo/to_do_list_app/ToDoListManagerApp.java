@@ -56,6 +56,12 @@ public class ToDoListManagerApp extends JFrame {
 
         // Add display panel
         listModel = new DefaultListModel<>();
+        TodosService todosService = new TodosService();
+        ToDo[] toDosArr = todosService.getAll();
+        for(int i=0; i<toDosArr.length; i++){
+            listModel.add(i, toDosArr[i]);
+        }
+
         todoList = new JList<>(listModel);
         JScrollPane scrollPane = new JScrollPane(todoList);
         scrollPane.setPreferredSize(new Dimension(300, 200));

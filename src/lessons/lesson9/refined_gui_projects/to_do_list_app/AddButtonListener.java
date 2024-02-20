@@ -9,7 +9,6 @@ import javax.swing.JTextField;
 
 public class AddButtonListener extends Listener implements ActionListener {
 
-
     public AddButtonListener(JTextField inputField, JTextField inputFieldDesc, JComboBox<String> dayComboBox, DefaultListModel<ToDo> listModel) {
         super(inputField, inputFieldDesc, dayComboBox, listModel);
     }

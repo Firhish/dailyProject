@@ -6,7 +6,8 @@ import java.sql.SQLException;
 
 public class MySQLConnector {
 
-    private static final String JDBC_URL = "jdbc:mysql://127.0.0.1:3306/todo_management_app_db?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC&useSSL=false";
+    // private static final String JDBC_URL = "jdbc:mysql://127.0.0.1:3306/todo_management_app_db?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC&useSSL=false";
+    private static final String JDBC_URL = "jdbc:mysql://localhost:3306/todo_management_app_db";
     private static final String JDBC_USER = "root";
     private static final String JDBC_PASSWORD = "password";
 

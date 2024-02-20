@@ -1,0 +1,31 @@
+Common concepts in quiz
+
+1. Access Modifier
+    - Q3q15
+
+2. Data types conversion
+    - Q3q12
+
+3. Complex loops & Algo
+    - Q3q1
+    - Q3q9
+    - Q3q18
+
+4. Exceptions
+    - Q3q17
+
+5. Main methods
+    - Q3q7
+
+6. Class hierarchy (Base and Derived)
+    - Q3q2
+    - Q3q5
+    - Q3q13
+
+7. Interfaces
+    - Q3q11
+    - Q3q14
+
+8. Arrays
+    - Q3q16
+    - Q3q20
