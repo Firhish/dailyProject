@@ -5,26 +5,47 @@ Common concepts in quiz
 
 2. Data types conversion
     - Q3q12
+    - Q3q26
+    - Q3q30
+    - Q3q35
 
 3. Complex loops & Algo
     - Q3q1
     - Q3q9
     - Q3q18
+    - Q3q21
+    - Q3q25
+    - Q3q32
+    - Q3q39
 
 4. Exceptions
     - Q3q17
+    - Q3q23
+    - Q3q24
+    - Q3q28
+    - Q3q33
+    - Q3q34
+    - Q3q53
+    - Q3q54
 
-5. Main methods
+5. Main methods and Terminal run
     - Q3q7
+    - Q3q38
 
 6. Class hierarchy (Base and Derived)
     - Q3q2
     - Q3q5
     - Q3q13
+    - Q3q27 (Next level stuff)
+    - Q3q31
+    - Q3q37
+    - Q3q55
 
 7. Interfaces
     - Q3q11
     - Q3q14
+    - Q3q22
+    - Q3q36
 
 8. Arrays
     - Q3q16
