@@ -6,6 +6,72 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ImportStatic",
+            "request": "launch",
+            "mainClass": "enthuware.ImportStatic",
+            "projectName": "dailyProject_ff1ad801"
+        },
+        {
+            "type": "java",
+            "name": "ForLoopTesting",
+            "request": "launch",
+            "mainClass": "enthuware.ForLoopTesting",
+            "projectName": "dailyProject_ff1ad801"
+        },
+        {
+            "type": "java",
+            "name": "ClassTesting",
+            "request": "launch",
+            "mainClass": "enthuware.ClassTesting",
+            "projectName": "dailyProject_ff1ad801"
+        },
+        {
+            "type": "java",
+            "name": "StringConcept",
+            "request": "launch",
+            "mainClass": "enthuware.StringConcept",
+            "projectName": "dailyProject_ff1ad801"
+        },
+        {
+            "type": "java",
+            "name": "Demo1",
+            "request": "launch",
+            "mainClass": "enthuware.Demo1",
+            "projectName": "dailyProject_ff1ad801"
+        },
+        {
+            "type": "java",
+            "name": "ArgsLength",
+            "request": "launch",
+            "mainClass": "enthuware.ArgsLength",
+            "projectName": "dailyProject_ff1ad801",
+            "args": [
+                ""
+            ]
+        },
+        {
+            "type": "java",
+            "name": "StringBuilderBlooper",
+            "request": "launch",
+            "mainClass": "enthuware.StringBuilderBlooper",
+            "projectName": "dailyProject_ff1ad801"
+        },
+        {
+            "type": "java",
+            "name": "BitWise",
+            "request": "launch",
+            "mainClass": "enthuware.BitWise",
+            "projectName": "dailyProject_ff1ad801"
+        },
+        {
+            "type": "java",
+            "name": "RandomFx",
+            "request": "launch",
+            "mainClass": "enthuware.RandomFx",
+            "projectName": "dailyProject_ff1ad801"
+        },
+        {
+            "type": "java",
             "name": "Test",
             "request": "launch",
             "mainClass": "quizzes.quiz3.q55.Test",
