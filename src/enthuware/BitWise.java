@@ -10,5 +10,8 @@ public class BitWise {
         // Boolean
         System.out.println(true|false);
         System.out.println(false|false);
+
+        boolean b = 9<8|1>0 ? false : true;
+        System.out.println(b);
     }
 }

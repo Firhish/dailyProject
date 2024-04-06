@@ -6,6 +6,314 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "imports.A.A",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Salad",
+            "request": "launch",
+            "mainClass": "imports.foods.Salad",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "enthuware.Test",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "LimaBestari",
+            "request": "launch",
+            "mainClass": "enthuware.LimaBestari",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "AddToListWIndex",
+            "request": "launch",
+            "mainClass": "enthuware.AddToListWIndex",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "ClassBaru",
+            "request": "launch",
+            "mainClass": "enthuware.access_modifier.p2.ClassBaru",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "enthuware.access_modifier.p1.Test",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "D",
+            "request": "launch",
+            "mainClass": "imports.d.D",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "MathFx",
+            "request": "launch",
+            "mainClass": "enthuware.MathFx",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "DataTypeConcept",
+            "request": "launch",
+            "mainClass": "enthuware.DataTypeConcept",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "BitWise",
+            "request": "launch",
+            "mainClass": "enthuware.BitWise",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "imports.a.A",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Playground4",
+            "request": "launch",
+            "mainClass": "enthuware.Playground4",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "SwitchStudy",
+            "request": "launch",
+            "mainClass": "enthuware.SwitchStudy",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Hemlock",
+            "request": "launch",
+            "mainClass": "enthuware.Hemlock",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Playground3",
+            "request": "launch",
+            "mainClass": "enthuware.Playground3",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "DataTypeSum",
+            "request": "launch",
+            "mainClass": "enthuware.DataTypeSum",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Ascii",
+            "request": "launch",
+            "mainClass": "enthuware.Ascii",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "DataTypesSum",
+            "request": "launch",
+            "mainClass": "enthuware.DataTypesSum",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "MainMethodBehavior",
+            "request": "launch",
+            "mainClass": "enthuware.MainMethodBehavior",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "VariableVsMethod",
+            "request": "launch",
+            "mainClass": "enthuware.VariableVsMethod",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "ConstructorConceptQ",
+            "request": "launch",
+            "mainClass": "enthuware.ConstructorConceptQ",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Test3",
+            "request": "launch",
+            "mainClass": "enthuware.Test3",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "StaticConcept",
+            "request": "launch",
+            "mainClass": "enthuware.StaticConcept",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "ArrayAndList2",
+            "request": "launch",
+            "mainClass": "enthuware.ArrayAndList2",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "ArrayAndList",
+            "request": "launch",
+            "mainClass": "enthuware.ArrayAndList",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "RandomFx",
+            "request": "launch",
+            "mainClass": "enthuware.RandomFx",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Playground2",
+            "request": "launch",
+            "mainClass": "enthuware.Playground2",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "StaticCurly2",
+            "request": "launch",
+            "mainClass": "enthuware.StaticCurly2",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "CharArray",
+            "request": "launch",
+            "mainClass": "enthuware.CharArray",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "OverloadTest",
+            "request": "launch",
+            "mainClass": "enthuware.OverloadTest",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Test2",
+            "request": "launch",
+            "mainClass": "enthuware.Test2",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "StaticCurly",
+            "request": "launch",
+            "mainClass": "enthuware.StaticCurly",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Playground",
+            "request": "launch",
+            "mainClass": "enthuware.Playground",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "InstanceVarBehavior",
+            "request": "launch",
+            "mainClass": "enthuware.InstanceVarBehavior",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "DanglingElse",
+            "request": "launch",
+            "mainClass": "enthuware.DanglingElse",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Try",
+            "request": "launch",
+            "mainClass": "enthuware.Try",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "IncrementOperator",
+            "request": "launch",
+            "mainClass": "enthuware.IncrementOperator",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Playground",
+            "request": "launch",
+            "mainClass": "Playground",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "NullPointerInArr",
+            "request": "launch",
+            "mainClass": "enthuware.NullPointerInArr",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "MathRandom",
+            "request": "launch",
+            "mainClass": "enthuware.MathRandom",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionConcept",
+            "request": "launch",
+            "mainClass": "enthuware.ExceptionConcept",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "ContinueInForLoop",
+            "request": "launch",
+            "mainClass": "enthuware.ContinueInForLoop",
+            "projectName": "dailyProject_ff1ad801"
+        },
+        {
+            "type": "java",
             "name": "ImportStatic",
             "request": "launch",
             "mainClass": "enthuware.ImportStatic",

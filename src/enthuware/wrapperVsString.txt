@@ -1,0 +1,5 @@
+Feature                  | Primitive Wrapper Classes	| String Class
+-----------------------------------------------------------------------------------------------------
+Purpose                  | Wrap primitive data types	| Represent sequences of characters
+Corresponds to primitive | Yes (e.g., Integer for int)	| No
+Functionality	         | Limited (mostly conversion)	| Rich set of methods for string manipulation
