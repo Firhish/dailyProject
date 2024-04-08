@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BInarySearch",
+            "request": "launch",
+            "mainClass": "interviewfaq.BInarySearch",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "FactorialCalc",
+            "request": "launch",
+            "mainClass": "interviewfaq.FactorialCalc",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeCheck",
+            "request": "launch",
+            "mainClass": "interviewfaq.PalindromeCheck",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "ReverseAString",
+            "request": "launch",
+            "mainClass": "interviewfaq.ReverseAString",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "FizzBuzz",
+            "request": "launch",
+            "mainClass": "interviewfaq.FizzBuzz",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "App",
