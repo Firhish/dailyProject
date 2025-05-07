@@ -15,7 +15,7 @@ public class Test {
         words.add("where");
         words.add("whether");
 
-        processStringArray(words,(String p) -> p.length() < 100);
+        processStringArray(words,(String p) -> p.length() < 5);
 
         // Correct to print all
         // p -> !!!!true

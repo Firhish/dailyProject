@@ -6,6 +6,139 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestHashMap",
+            "request": "launch",
+            "mainClass": "refresher.Collection.TestHashMap",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "ElidapizSiemens",
+            "request": "launch",
+            "mainClass": "enthuware.ElidapizSiemens",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quizzes.quiz3.q20.Test",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quizzes.quiz3.q16.Test",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "MainBD",
+            "request": "launch",
+            "mainClass": "refresher.Inheritance.MainBD",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quizzes.quiz3.q27.Test",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Primitive",
+            "request": "launch",
+            "mainClass": "refresher.DataType.Primitive",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeCheckRefresher",
+            "request": "launch",
+            "mainClass": "refresher.Loop.PalindromeCheckRefresher",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Aeroplane",
+            "request": "launch",
+            "mainClass": "quizzes.quiz3.q36.Aeroplane",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Static",
+            "request": "launch",
+            "mainClass": "refresher.Static.Static",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Static",
+            "request": "launch",
+            "mainClass": "refresher.Static",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quizzes.quiz3.q9.Test",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quizzes.quiz3.q4.Test",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "refresher.Inheritance.Main",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "RefresherPlayground",
+            "request": "launch",
+            "mainClass": "refresher.RefresherPlayground",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "PlaygroundQinetic",
+            "request": "launch",
+            "mainClass": "interviewfaq.qinetics.PlaygroundQinetic",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "q3",
+            "request": "launch",
+            "mainClass": "interviewfaq.qinetics.q3",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "q2",
+            "request": "launch",
+            "mainClass": "interviewfaq.qinetics.q2",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "q1",
+            "request": "launch",
+            "mainClass": "interviewfaq.qinetics.q1",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
             "name": "BInarySearch",
             "request": "launch",
             "mainClass": "interviewfaq.BInarySearch",
