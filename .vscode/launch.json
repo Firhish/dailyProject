@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExceptionCore",
+            "request": "launch",
+            "mainClass": "enthuware.ExceptionCore",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Exception1",
+            "request": "launch",
+            "mainClass": "refresher.Exception.Exception1",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "quizzes.quiz1.q4.Test",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "refresher.Algorithm.Factorial",
+            "projectName": "dailyProject_6171c66"
+        },
+        {
+            "type": "java",
             "name": "TestHashMap",
             "request": "launch",
             "mainClass": "refresher.Collection.TestHashMap",

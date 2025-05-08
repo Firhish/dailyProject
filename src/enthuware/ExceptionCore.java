@@ -17,8 +17,8 @@ public class ExceptionCore {
         try {
             throw new ArrayIndexOutOfBoundsException();
         }
-        catch (Exception e) {
-            System.out.println("catched nullpointerexp");
+        catch (IndexOutOfBoundsException e) {
+            System.out.println("catched in main");
         } 
         finally{
             System.out.println("outside");
